@@ -1,10 +1,10 @@
-# Hi, Agent_RBY_ there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi, bot08 there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-<a href="https://github.com/AgentRBY" rel="noreferrer" target="blank"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentrby&show_icons=true&theme=default&locale=en" alt="agentrby" /></p></a>
+<a href="https://github.com/AgentRBY" rel="noreferrer" target="blank"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot08&show_icons=true&theme=default&locale=en" alt="bot08" /></p></a>
 
 ### **⚡Current project's:** 
-- [HL_Bot](https://github.com/AgentRBY/HL_Bot) <a href="https://github.com/AgentRBY/HL_Bot" rel="noreferrer" target="blank"><img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/robot_1f916.png" width="20px" /></a>
+- [Genshin Journey](https://github.com/bot08/genshin-front/) <a href="https://github.com/bot08/genshin-front/" rel="noreferrer" target="blank"><img align="center" src="https://genshin-journey.site/favicon120.png" width="20px" /></a>
 ### Languages and Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="blank"><img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
